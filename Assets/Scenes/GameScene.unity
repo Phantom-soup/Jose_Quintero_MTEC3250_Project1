@@ -557,7 +557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   music: {fileID: 8300000, guid: de7a7600a9bc1ab4ba04e53e4bf32c73, type: 3}
-  musicVolume: 1
+  musicVolume: 0.578
   ambience: {fileID: 0}
   ambienceVolume: 1
   playerMove: {fileID: 0}
